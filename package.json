@@ -1,0 +1,19 @@
+{
+  "name": "knight-travails",
+  "version": "1.0.0",
+  "description": "Knight-Travails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samir-ahajin/knight-travails.git"
+  },
+  "author": "Samir-ahajin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samir-ahajin/knight-travails/issues"
+  },
+  "homepage": "https://github.com/samir-ahajin/knight-travails#readme"
+}
